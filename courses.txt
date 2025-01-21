@@ -1,0 +1,3 @@
+CSE174	FundamentalsOfProgramming&ProblemSolving	50
+THE123	ActingForNon-Majors							5
+HST260	LatinAmericaInTheU.S.						11
